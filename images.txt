@@ -9,8 +9,7 @@ qdtoday/qd:latest
 --platform=linux/arm64 1activegeek/airconnect
 --platform=linux/arm64 sitoi/dailycheckin
 --platform=linux/arm64 qdtoday/qd
-
-
+--platform=linux/arm64 v2ray/official
 
 
 
