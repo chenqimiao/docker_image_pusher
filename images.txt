@@ -6,7 +6,6 @@ qdtoday/qd:latest
 1activegeek/airconnect:latest
 dreamacro/clash:latest
 haishanh/yacd:latest
-v2ray/official:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
@@ -15,8 +14,6 @@ v2ray/official:latest
 --platform=linux/arm64 qdtoday/qd
 --platform=linux/arm64 dreamacro/clash
 --platform=linux/arm64 haishanh/yacd
---platform=linux/arm64 v2ray/official
-
 
 
 
