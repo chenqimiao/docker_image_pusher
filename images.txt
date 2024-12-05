@@ -7,6 +7,7 @@ qdtoday/qd:latest
 dreamacro/clash:latest
 haishanh/yacd:latest
 xiaoyaliu/alist:latest
+ht944/rabbitpro
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
