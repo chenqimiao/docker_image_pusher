@@ -9,7 +9,7 @@ haishanh/yacd:latest
 xiaoyaliu/alist:latest
 ht944/rabbitpro:latest
 luminoleon/epicgames-claimer:latest
-
+alpine/git:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 1activegeek/airconnect
@@ -20,6 +20,7 @@ luminoleon/epicgames-claimer:latest
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 ht944/rabbitpro
 --platform=linux/arm64 luminoleon/epicgames-claimer
+--platform=linux/arm64 alpine/git
 
 
 
