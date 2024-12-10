@@ -8,7 +8,7 @@ dreamacro/clash:latest
 haishanh/yacd:latest
 xiaoyaliu/alist:latest
 ht944/rabbitpro:latest
-jackblk/epicgames-freebies-claimer:latest
+evilurge/epicgames-weekly-freegames:latest
 bitnami/git:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
@@ -19,7 +19,7 @@ bitnami/git:latest
 --platform=linux/arm64 haishanh/yacd
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 ht944/rabbitpro
---platform=linux/arm64 jackblk/epicgames-freebies-claimer
+--platform=linux/arm64 evilurge/epicgames-weekly-freegames
 --platform=linux/arm64 bitnami/git:latest
 
 
