@@ -10,6 +10,7 @@ xiaoyaliu/alist:latest
 ht944/rabbitpro:latest
 bitnami/git:latest
 teddysun/v2ray:latest
+dreamacro/clash-premium:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
@@ -22,6 +23,8 @@ teddysun/v2ray:latest
 --platform=linux/arm64 ht944/rabbitpro
 --platform=linux/arm64 bitnami/git
 --platform=linux/arm64 teddysun/v2ray
+--platform=linux/arm64 dreamacro/clash-premium
+
 
 
 
