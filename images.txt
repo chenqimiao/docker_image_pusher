@@ -11,6 +11,7 @@ ht944/rabbitpro:latest
 bitnami/git:latest
 teddysun/v2ray:latest
 dreamacro/clash-premium:latest
+centralx/clash:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
@@ -24,6 +25,7 @@ dreamacro/clash-premium:latest
 --platform=linux/arm64 bitnami/git
 --platform=linux/arm64 teddysun/v2ray
 --platform=linux/arm64 dreamacro/clash-premium
+--platform=linux/arm64 centralx/clash
 
 
 
