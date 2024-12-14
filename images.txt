@@ -27,7 +27,7 @@ hanxi/xiaomusic:latest
 --platform=linux/arm64 teddysun/v2ray
 --platform=linux/arm64 dreamacro/clash-premium
 --platform=linux/arm64 centralx/clash
---platform=linux/arm6 hanxi/xiaomusic
+--platform=linux/arm64 hanxi/xiaomusic
 
 
 
