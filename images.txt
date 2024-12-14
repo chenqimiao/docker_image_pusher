@@ -12,6 +12,7 @@ bitnami/git:latest
 teddysun/v2ray:latest
 dreamacro/clash-premium:latest
 centralx/clash:latest
+hanxi/xiaomusic:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
@@ -26,6 +27,7 @@ centralx/clash:latest
 --platform=linux/arm64 teddysun/v2ray
 --platform=linux/arm64 dreamacro/clash-premium
 --platform=linux/arm64 centralx/clash
+--platform=linux/arm6 hanxi/xiaomusic
 
 
 
