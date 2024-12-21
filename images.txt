@@ -14,6 +14,7 @@ dreamacro/clash-premium:latest
 centralx/clash:latest
 hanxi/xiaomusic:latest
 pixman/pixman:latest
+chishin/nginx-proxy-manager-zh:latest
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
@@ -30,6 +31,7 @@ pixman/pixman:latest
 --platform=linux/arm64 centralx/clash
 --platform=linux/arm64 hanxi/xiaomusic
 --platform=linux/arm64 pixman/pixman
+--platform=linux/arm64 chishin/nginx-proxy-manager-zh
 
 
 
