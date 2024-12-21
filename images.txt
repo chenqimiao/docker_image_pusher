@@ -2,20 +2,6 @@ nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 sitoi/dailycheckin:latest
-qdtoday/qd:latest
-1activegeek/airconnect:latest
-dreamacro/clash:latest
-haishanh/yacd:latest
-xiaoyaliu/alist:latest
-ht944/rabbitpro:latest
-bitnami/git:latest
-teddysun/v2ray:latest
-dreamacro/clash-premium:latest
-centralx/clash:latest
-hanxi/xiaomusic:latest
-pixman/pixman:latest
-chishin/nginx-proxy-manager-zh:latest
-
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 1activegeek/airconnect
@@ -32,6 +18,7 @@ chishin/nginx-proxy-manager-zh:latest
 --platform=linux/arm64 hanxi/xiaomusic
 --platform=linux/arm64 pixman/pixman
 --platform=linux/arm64 chishin/nginx-proxy-manager-zh
+--platform=linux/arm64 netvpc/joplin
 
 
 
