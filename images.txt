@@ -20,6 +20,8 @@ sitoi/dailycheckin:latest
 --platform=linux/arm64 chishin/nginx-proxy-manager-zh
 --platform=linux/arm64 netvpc/joplin
 --platform=linux/arm64 dockurr/samba:4.19.6
+--platform=linux/arm64 dperson/samba
+
 
 
 
