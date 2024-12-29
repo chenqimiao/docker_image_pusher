@@ -9,7 +9,6 @@ sitoi/dailycheckin:latest
 --platform=linux/arm64 qdtoday/qd
 --platform=linux/arm64 dreamacro/clash
 --platform=linux/arm64 haishanh/yacd
---platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 ht944/rabbitpro
 --platform=linux/arm64 bitnami/git
 --platform=linux/arm64 teddysun/v2ray
@@ -21,6 +20,7 @@ sitoi/dailycheckin:latest
 --platform=linux/arm64 netvpc/joplin
 --platform=linux/arm64 dockurr/samba:4.19.6
 --platform=linux/arm64 dperson/samba
+--platform=linux/arm64 xiaoyaliu/alist:latest
 
 
 
