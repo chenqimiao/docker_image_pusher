@@ -23,6 +23,7 @@ xiaoyaliu/alist:latest
 --platform=linux/arm64 dperson/samba
 --platform=linux/arm64 xiaoyaliu/alist:latest
 --platform=linux/arm64 jgraph/drawio:latest
+--platform=linux/arm64 dyrnq/open-webui:latest
 
 
 
