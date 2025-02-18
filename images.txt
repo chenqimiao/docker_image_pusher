@@ -25,7 +25,7 @@ xiaoyaliu/alist:latest
 --platform=linux/arm64 jgraph/drawio:latest
 --platform=linux/arm64 dyrnq/open-webui:latest
 --platform=linux/arm64 0nlylty/dockercopilot:ZSPACE
-
+--platform=linux/arm64 0nlylty/one-key-update:zspace
 
 
 
