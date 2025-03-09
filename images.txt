@@ -2,21 +2,21 @@ nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
---platform=linux/arm64 1activegeek/airconnect
---platform=linux/arm64 dreamacro/clash
---platform=linux/arm64 haishanh/yacd
---platform=linux/arm64 bitnami/git
---platform=linux/arm64 dreamacro/clash-premium
---platform=linux/arm64 centralx/clash
---platform=linux/arm64 hanxi/xiaomusic
---platform=linux/arm64 chishin/nginx-proxy-manager-zh
---platform=linux/arm64 netvpc/joplin
---platform=linux/arm64 xiaoyaliu/alist:latest
---platform=linux/arm64 jgraph/drawio:latest
---platform=linux/arm64 dyrnq/open-webui:latest
---platform=linux/arm64 0nlylty/one-key-update:zspace
---platform=linux/arm64 mintplexlabs/anythingllm:latest
+#--platform=linux/arm64 xiaoyaliu/alist
+#--platform=linux/arm64 1activegeek/airconnect
+#--platform=linux/arm64 dreamacro/clash
+#--platform=linux/arm64 haishanh/yacd
+#--platform=linux/arm64 bitnami/git
+#--platform=linux/arm64 dreamacro/clash-premium
+#--platform=linux/arm64 centralx/clash
+#--platform=linux/arm64 hanxi/xiaomusic
+#--platform=linux/arm64 chishin/nginx-proxy-manager-zh
+#--platform=linux/arm64 netvpc/joplin
+#--platform=linux/arm64 xiaoyaliu/alist:latest
+#--platform=linux/arm64 jgraph/drawio:latest
+#--platform=linux/arm64 dyrnq/open-webui:latest
+#--platform=linux/arm64 0nlylty/one-key-update:zspace
+#--platform=linux/arm64 mintplexlabs/anythingllm:latest
 --platform=linux/arm64 containrrr/watchtowe:latest
 
 
