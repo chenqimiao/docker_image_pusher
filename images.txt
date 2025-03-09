@@ -17,6 +17,7 @@ nginx
 --platform=linux/arm64 dyrnq/open-webui:latest
 --platform=linux/arm64 0nlylty/one-key-update:zspace
 --platform=linux/arm64 mintplexlabs/anythingllm:latest
+--platform=linux/arm64 containrrr/watchtowe:latest
 
 
 
