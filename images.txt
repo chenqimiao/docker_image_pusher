@@ -1,6 +1,7 @@
 nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+containrrr/watchtower:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 1activegeek/airconnect
@@ -17,7 +18,7 @@ nginx
 #--platform=linux/arm64 dyrnq/open-webui:latest
 #--platform=linux/arm64 0nlylty/one-key-update:zspace
 #--platform=linux/arm64 mintplexlabs/anythingllm:latest
---platform=linux/arm64 containrrr/watchtowe:latest
+#--platform=linux/arm64 containrrr/watchtowe:latest
 
 
 
