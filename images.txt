@@ -2,9 +2,10 @@ nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 # containrrr/watchtower:latest
+whyour/qinglong:latest
 #支持指定架构
---platform=linux/arm64 nriver/trilium-cn
---platform=linux/arm64 zadam/trilium:latest
+#--platform=linux/arm64 nriver/trilium-cn
+#--platform=linux/arm64 zadam/trilium:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 1activegeek/airconnect
 #--platform=linux/arm64 dreamacro/clash
