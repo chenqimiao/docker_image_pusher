@@ -4,9 +4,10 @@ nginx
 # containrrr/watchtower:latest
 # whyour/qinglong:2.17.11
 openlistteam/openlist:latest
+nriver/trilium-cn:latest
 #支持指定架构
 --platform=linux/arm64 openlistteam/openlist:latest
-#--platform=linux/arm64 nriver/trilium-cn
+--platform=linux/arm64 nriver/trilium-cn
 #--platform=linux/arm64 zadam/trilium:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 1activegeek/airconnect
