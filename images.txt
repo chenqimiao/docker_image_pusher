@@ -8,9 +8,9 @@ nginx
 homeassistant/home-assistant:latest
 
 #支持指定架构
+--platform=linux/arm64 homeassistant/home-assistant:ltest
 #--platform=linux/arm64 openlistteam/openlist:latest
 #--platform=linux/arm64 nriver/trilium-cn
---platform=linux/arm64 homeassistant/home-assistant
 #--platform=linux/arm64 zadam/trilium:latest
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/arm64 1activegeek/airconnect
