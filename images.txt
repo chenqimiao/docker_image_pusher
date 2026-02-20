@@ -6,11 +6,11 @@ nginx
 #openlistteam/openlist:latest
 #nriver/trilium-cn:latest
 #homeassistant/home-assistant:latest
-#magiccoders/nginxpulse:latest
-docker.io/jc21/nginx-proxy-manager:latest
+magiccoders/nginxpulse:latest
+#docker.io/jc21/nginx-proxy-manager:latest
 
 #支持指定架构
-#--platform=linux/arm64 magiccoders/nginxpulse:latest
+--platform=linux/arm64 magiccoders/nginxpulse:latest
 #--platform=linux/arm64 homeassistant/home-assistant:ltest
 #--platform=linux/arm64 openlistteam/openlist:latest
 #--platform=linux/arm64 nriver/trilium-cn
@@ -31,7 +31,7 @@ docker.io/jc21/nginx-proxy-manager:latest
 #--platform=linux/arm64 0nlylty/one-key-update:zspace
 #--platform=linux/arm64 mintplexlabs/anythingllm:latest
 #--platform=linux/arm64 containrrr/watchtowe:latest
---platform=linux/arm64 docker.io/jc21/nginx-proxy-manager:latest
+#--platform=linux/arm64 docker.io/jc21/nginx-proxy-manager:latest
 
 
 
